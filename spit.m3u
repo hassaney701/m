@@ -1,0 +1,340 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="IT | CANALE 5 FHD" group-title="foxbleu.pro",IT | CANALE 5 FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=64363&extension=ts&play_token=AztTCqthdg
+#EXTINF:-1 tvg-name="IT | CANALE 5 HD" group-title="foxbleu.pro",IT | CANALE 5 HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23638&extension=ts&play_token=dqzjRew5dG
+#EXTINF:-1 tvg-name="IT | CANALE 20 HD" group-title="foxbleu.pro",IT | CANALE 20 HD
+#M3U_EXTRACT: it
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=64371&extension=ts&play_token=3yfm5V9Zwx
+#EXTINF:-1 tvg-name="IT | CIELO HD" group-title="foxbleu.pro",IT | CIELO HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23541&extension=ts&play_token=7224obwrqU
+#EXTINF:-1 tvg-name="IT | CINE 34 SD" group-title="foxbleu.pro",IT | CINE 34 SD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79591&extension=ts&play_token=mH26YdcpvU
+#EXTINF:-1 tvg-name="IT | CRIME&INVESTIGATION HD" group-title="foxbleu.pro",IT | CRIME&INVESTIGATION HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23551&extension=ts&play_token=MlkwxbuCD2
+#EXTINF:-1 tvg-name="IT | DAZN A1 FHD" tvg-logo="https://logoipro2.com/logo/daznsport1.png" group-title="foxbleu.pro",IT | DAZN A1 FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=365316&extension=ts&play_token=3c5yu3Ulwb
+#EXTINF:-1 tvg-name="IT | DAZN A1 HD" group-title="foxbleu.pro",IT | DAZN A1 HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=365315&extension=ts&play_token=Om3DW99XTP
+#EXTINF:-1 tvg-name="IT | DAZN ZONA FHD" group-title="foxbleu.pro",IT | DAZN ZONA FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=365318&extension=ts&play_token=1mT0pwqihG
+#EXTINF:-1 tvg-name="IT | DAZN ZONA HD" group-title="foxbleu.pro",IT | DAZN ZONA HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=365317&extension=ts&play_token=FJDRfCvv4z
+#EXTINF:-1 tvg-name="IT | DMAX" tvg-logo="https://logoipro2.com/logo/98.png" group-title="foxbleu.pro",IT | DMAX
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23542&extension=ts&play_token=hLWx6dYmkr
+#EXTINF:-1 tvg-name="IT | EAGLE CINEMA PASSIONE" group-title="foxbleu.pro",IT | EAGLE CINEMA PASSIONE
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=82635&extension=ts&play_token=eqvl3wcJJ9
+#EXTINF:-1 tvg-name="IT | EAGLE MARVEL" group-title="foxbleu.pro",IT | EAGLE MARVEL
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=82633&extension=ts&play_token=Xmu3MAdoVK
+#EXTINF:-1 tvg-name="IT EQU TV" tvg-logo="https://go4.pw/EUROPE/equ.png" group-title="EU | IT | SPORT ",IT EQU TV
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/1425213
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/equ.png" group-title="[LIVE]- EU | IT | SPORT ",IT EQU TV
+http://stream8k.site:80/live/649040128000902/0cYUKKV8wF/1425213.ts
+#EXTINF:-1 tvg-name="IT | EUROSPORT 1 FHD" group-title="foxbleu.pro",IT | EUROSPORT 1 FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79605&extension=ts&play_token=lGBFuID8tY
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/Eurosport_1.png" group-title="[LIVE]- IT | SKY SPORTS VIP",IT: EUROSPORT 1 FHD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136456.ts
+#EXTINF:-1 tvg-name="IT EUROSPORT 1 HD" tvg-logo="https://go4.pw/ITALY/eurosport1.png" group-title="EU | IT | SPORT ",IT EUROSPORT 1 HD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/900926
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/eurosport1.png" group-title="[LIVE]- EU | IT | SPORT ",IT EUROSPORT 1 HD
+http://stream8k.site:80/live/649040128000902/0cYUKKV8wF/900926.ts
+#EXTINF:-1 tvg-name="IT | EUROSPORT 1 HD" group-title="foxbleu.pro",IT | EUROSPORT 1 HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23578&extension=ts&play_token=pyVpvGVtkZ
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/Eurosport_1.png" group-title="[LIVE]- IT | SKY SPORTS VIP",IT: EUROSPORT 1 HD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136457.ts
+#EXTINF:-1 tvg-name="IT EUROSPORT 1 UHD" tvg-logo="https://go4.pw/ITALY/eurosport1.png" group-title="EU | IT | SPORT ",IT EUROSPORT 1 UHD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/76645
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/eurosport1.png" group-title="[LIVE]- EU | IT | SPORT ",IT EUROSPORT 1 UHD
+http://stream8k.site:80/live/649040128000902/0cYUKKV8wF/76645.ts
+#EXTINF:-1 tvg-name="IT | EUROSPORT 2 FHD" group-title="foxbleu.pro",IT | EUROSPORT 2 FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79606&extension=ts&play_token=M0awbbUswk
+#EXTINF:-1 tvg-name="IT | EUROSPORT 2 HD" group-title="foxbleu.pro",IT | EUROSPORT 2 HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23577&extension=ts&play_token=TG0HOuFCKm
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/Eurosport_2.png" group-title="[LIVE]- IT | SKY SPORTS VIP",IT: EUROSPORT 2 HD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136460.ts
+#EXTINF:-1 tvg-name="IT EUROSPORT 2 UHD" tvg-logo="https://go4.pw/ITALY/eurosport2.png" group-title="EU | IT | SPORT ",IT EUROSPORT 2 UHD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/76646
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/eurosport2.png" group-title="[LIVE]- EU | IT | SPORT ",IT EUROSPORT 2 UHD
+http://stream8k.site:80/live/649040128000902/0cYUKKV8wF/76646.ts
+#EXTINF:-1 tvg-name="IT | FOCUS" group-title="foxbleu.pro",IT | FOCUS
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23543&extension=ts&play_token=hk0b5vecOH
+#EXTINF:-1 tvg-name="IT | HISTORY FHD" group-title="foxbleu.pro",IT | HISTORY FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79654&extension=ts&play_token=UxNFidNjgG
+#EXTINF:-1 tvg-name="IT | HISTORY HD" group-title="foxbleu.pro",IT | HISTORY HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23532&extension=ts&play_token=hEkPya6TIE
+#EXTINF:-1 tvg-name="IT INFINITY 2 FHD" tvg-logo="https://go4.pw/ITALY/INFINITY.png" group-title="EU | IT | SPORT ",IT INFINITY 2 FHD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/521191
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/INFINITY.png" group-title="[LIVE]- EU | IT | SPORT ",IT INFINITY 5 FHD
+http://stream8k.site:80/live/649040128000902/0cYUKKV8wF/521188.ts
+#EXTINF:-1 tvg-name="IT INFINITY 6 FHD" tvg-logo="https://go4.pw/ITALY/INFINITY.png" group-title="EU | IT | SPORT ",IT INFINITY 6 FHD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/521187
+#EXTINF:-1 tvg-name="IT INTER CHANNEL UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/intertv.png" group-title="EU | IT | SPORT ",IT INTER CHANNEL UHD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/247062
+#EXTINF:-1 tvg-name="IT | ITALIA 1 HD" group-title="foxbleu.pro",IT | ITALIA 1 HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23640&extension=ts&play_token=lR16emOtmi
+#EXTINF:-1 tvg-name="IT | LA 5" group-title="foxbleu.pro",IT | LA 5
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23635&extension=ts&play_token=iMRP2fwvqu
+#EXTINF:-1 tvg-name="IT | LA 7D FHD" tvg-logo="https://logoipro2.com/logo/10655.png" group-title="foxbleu.pro",IT | LA 7D FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79553&extension=ts&play_token=O6OHBuMixX
+#EXTINF:-1 tvg-name="IT LAZIO CHANNEL UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/latziotv.png" group-title="EU | IT | SPORT ",IT LAZIO CHANNEL UHD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/247063
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ITALY/latziotv.png" group-title="[LIVE]- EU | IT | SPORT ",IT LAZIO CHANNEL UHD
+http://stream8k.site:80/live/649040128000902/0cYUKKV8wF/247063.ts
+#EXTINF:-1 tvg-name="IT | MEDIAPRO CHANNEL" group-title="foxbleu.pro",IT | MEDIAPRO CHANNEL
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79607&extension=ts&play_token=K8P2yzjYWG
+#EXTINF:-1 tvg-name="IT | MEDIASET EXTRA" group-title="foxbleu.pro",IT | MEDIASET EXTRA
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23631&extension=ts&play_token=8eKwRscsqA
+#EXTINF:-1 tvg-name="IT MILAN CHANNEL HD" tvg-logo="https://go4.pw/EUROPE/ITALY/milantv.png" group-title="EU | IT | SPORT ",IT MILAN CHANNEL HD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/183883
+#EXTINF:-1 group-title="[LIVE]- IT | SKY SPORTS VIP",IT: MILAN TV HD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136469.ts
+#EXTINF:-1 tvg-name="IT | MTV FHD" tvg-logo="https://logoipro2.com/logo/45890.png" group-title="foxbleu.pro",IT | MTV FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79664&extension=ts&play_token=DDsck7VjPL
+#EXTINF:-1 tvg-name="IT MY SPORTS 2 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="EU | IT | SPORT ",IT MY SPORTS 2 UHD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/269027
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="[LIVE]- EU | IT | SPORT ",IT MY SPORTS 3 UHD
+http://stream8k.site:80/live/649040128000902/0cYUKKV8wF/269028.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="[LIVE]- EU | IT | SPORT ",IT MY SPORTS 4 UHD
+http://stream8k.site:80/live/649040128000902/0cYUKKV8wF/269029.ts
+#EXTINF:-1 tvg-name="IT MY SPORTS 7 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/MY-SPORTS.png" group-title="EU | IT | SPORT ",IT MY SPORTS 7 UHD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/76661
+#EXTINF:-1 tvg-name="IT | PADRE PIO TV" group-title="foxbleu.pro",IT | PADRE PIO TV
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=181481&extension=ts&play_token=LFAPZK4x4x
+#EXTINF:-1 tvg-name="IT | PRIMAFILA 1" group-title="foxbleu.pro",IT | PRIMAFILA 1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23513&extension=ts&play_token=7I48n87M2Z
+#EXTINF:-1 tvg-name="IT | PRIMAFILA 2" group-title="foxbleu.pro",IT | PRIMAFILA 2
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23512&extension=ts&play_token=hoZfQEeNzz
+#EXTINF:-1 tvg-name="IT | PRIMAFILA 5" group-title="foxbleu.pro",IT | PRIMAFILA 5
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23509&extension=ts&play_token=Rh25ms8J5u
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Rai 1 FHD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159598.ts
+#EXTINF:-1 tvg-name="IT | RAI 1 HD" group-title="foxbleu.pro",IT | RAI 1 HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23655&extension=ts&play_token=399Wuiy0qH
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Rai 1 SD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159596.ts
+#EXTINF:-1 tvg-name="IT | RAI 2 FHD" group-title="foxbleu.pro",IT | RAI 2 FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=64359&extension=ts&play_token=RiDboDGrna
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Rai 2 FHD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159595.ts
+#EXTINF:-1 tvg-name="IT | RAI 2 HD" group-title="foxbleu.pro",IT | RAI 2 HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23654&extension=ts&play_token=JVuMiEuVaM
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Rai 2 HD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159594.ts
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Rai 3 HD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159591.ts
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Rai 5 HD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159585.ts
+#EXTINF:-1 tvg-name="IT | RAI MOVIE HD" group-title="foxbleu.pro",IT | RAI MOVIE HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23650&extension=ts&play_token=LhlAf24ZD3
+#EXTINF:-1 tvg-name="IT RAI SPORT HD" tvg-logo="https://go4.pw/EUROPE/ITALY/raisport.png" group-title="EU | IT | SPORT ",IT RAI SPORT HD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/76631
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ITALY/raisport.png" group-title="[LIVE]- EU | IT | SPORT ",IT RAI SPORT HD
+http://stream8k.site:80/live/649040128000902/0cYUKKV8wF/76631.ts
+#EXTINF:-1 tvg-name="IT RAI SPORT UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/raisport.png" group-title="EU | IT | SPORT ",IT RAI SPORT UHD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/900915
+#EXTINF:-1 group-title="[LIVE]- IT | SKY SPORTS VIP",IT: RAI SPORT+
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136470.ts
+#EXTINF:-1 tvg-name="IT | REAL TIME FHD" group-title="foxbleu.pro",IT | REAL TIME FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79655&extension=ts&play_token=1eEFhnl6AJ
+#EXTINF:-1 tvg-name="IT | RETE 4 FHD" group-title="foxbleu.pro",IT | RETE 4 FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=64362&extension=ts&play_token=IBglwPBBSf
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Rete 4 FHD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159547.ts
+#EXTINF:-1 tvg-name="IT | RSI LA 1 HD" tvg-logo="https://logoipro2.com/logo/10006.png" group-title="foxbleu.pro",IT | RSI LA 1 HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23629&extension=ts&play_token=PpJrFxBmcb
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| RSI LA 2
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159520.ts
+#EXTINF:-1 tvg-name="IT | SKY ARTE FHD" group-title="foxbleu.pro",IT | SKY ARTE FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79558&extension=ts&play_token=kScWXfkwZS
+#EXTINF:-1 tvg-name="IT | SKY ARTE HD" group-title="foxbleu.pro",IT | SKY ARTE HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23603&extension=ts&play_token=ZxXUtFUwyZ
+#EXTINF:-1 tvg-name="IT | SKY ATLANTIC FHD" group-title="foxbleu.pro",IT | SKY ATLANTIC FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=89666&extension=ts&play_token=k4OYJHckdA
+#EXTINF:-1 tvg-name="IT | SKY ATLANTIC HD" group-title="foxbleu.pro",IT | SKY ATLANTIC HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=89639&extension=ts&play_token=djCOzOPWVc
+#EXTINF:-1 tvg-name="IT SKY CALCIO 1 UHD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="EU | IT | SPORT ",IT SKY CALCIO 1 UHD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/900917
+#EXTINF:-1 tvg-name="IT SKY CALCIO 2 HD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="EU | IT | SPORT ",IT SKY CALCIO 2 HD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/247090
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="[LIVE]- EU | IT | SPORT ",IT SKY CALCIO 2 HD
+http://stream8k.site:80/live/649040128000902/0cYUKKV8wF/247090.ts
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="[LIVE]- EU | IT | SPORT ",IT SKY CALCIO 2 UHD
+http://stream8k.site:80/live/649040128000902/0cYUKKV8wF/900919.ts
+#EXTINF:-1 tvg-name="IT SKY CALCIO 3 HD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="EU | IT | SPORT ",IT SKY CALCIO 3 HD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/247091
+#EXTINF:-1 tvg-name="IT SKY CALCIO 5 HD" tvg-logo="https://go4.pw/ITALY/skyc.png" group-title="EU | IT | SPORT ",IT SKY CALCIO 5 HD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/247093
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Sky Cinema Action FHD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159461.ts
+#EXTINF:-1 tvg-name="IT | SKY CINEMA COLLECTION FHD" group-title="foxbleu.pro",IT | SKY CINEMA COLLECTION FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79575&extension=ts&play_token=p8OkA6x4Dh
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Sky Cinema Collection FHD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159458.ts
+#EXTINF:-1 tvg-name="IT | SKY CINEMA DRAMA FHD" group-title="foxbleu.pro",IT | SKY CINEMA DRAMA FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79569&extension=ts&play_token=JymRSz2qNo
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Sky Cinema Drama FHD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159452.ts
+#EXTINF:-1 tvg-name="IT | SKY CINEMA DRAMA HD" group-title="foxbleu.pro",IT | SKY CINEMA DRAMA HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79570&extension=ts&play_token=WRg5GPlj99
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Sky Cinema Drama HD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159451.ts
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Sky Cinema Due FHD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159447.ts
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Sky Cinema Family FHD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159444.ts
+#EXTINF:-1 tvg-name="IT | SKY CINEMA FAMILY HD" group-title="foxbleu.pro",IT | SKY CINEMA FAMILY HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23620&extension=ts&play_token=ChQEk3lDdB
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Sky Cinema Romance FHD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159441.ts
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Sky Cinema Romance HD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159440.ts
+#EXTINF:-1 tvg-name="IT | SKY CINEMA SUSPENSE FHD" group-title="foxbleu.pro",IT | SKY CINEMA SUSPENSE FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79573&extension=ts&play_token=F198FQCVs9
+#EXTINF:-1 tvg-name="IT | SKY CINEMA UNO FHD" group-title="foxbleu.pro",IT | SKY CINEMA UNO FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79567&extension=ts&play_token=6YL6iUgrOB
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Sky Cinema Uno FHD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159433.ts
+#EXTINF:-1 tvg-name="IT | SKY NATURE FHD" group-title="foxbleu.pro",IT | SKY NATURE FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=200269&extension=ts&play_token=jXiZyif1k1
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-24-it.png" group-title="[LIVE]- IT | SKY SPORTS VIP",IT: SKY SPORT 24 HD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136476.ts
+#EXTINF:-1 tvg-name="IT SKY SPORT 24 UHD" tvg-logo="https://go4.pw/ITALY/skysport24.png" group-title="EU | IT | SPORT ",IT SKY SPORT 24 UHD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/76635
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="[LIVE]- IT | SKY CALCIO VIP",IT: SKY SPORT 251 FHD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136517.ts
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="[LIVE]- IT | SKY CALCIO VIP",IT: SKY SPORT 251 HD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136518.ts
+#EXTINF:-1 tvg-name="IT | SKY SPORT 252 FHD" group-title="foxbleu.pro",IT | SKY SPORT 252 FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79611&extension=ts&play_token=mquuGWB6SQ
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="[LIVE]- IT | SKY CALCIO VIP",IT: SKY SPORT 252 FHD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136520.ts
+#EXTINF:-1 tvg-name="IT | SKY SPORT 252 HD" group-title="foxbleu.pro",IT | SKY SPORT 252 HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=89709&extension=ts&play_token=p1IizQ1HmP
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="[LIVE]- IT | SKY CALCIO VIP",IT: SKY SPORT 252 HD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136521.ts
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="[LIVE]- IT | SKY CALCIO VIP",IT: SKY SPORT 253 FHD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136523.ts
+#EXTINF:-1 tvg-name="IT | SKY SPORT 253 HD" group-title="foxbleu.pro",IT | SKY SPORT 253 HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23562&extension=ts&play_token=ddXPhIb3DM
+#EXTINF:-1 tvg-name="IT | SKY SPORT 253 HD" group-title="foxbleu.pro",IT | SKY SPORT 253 HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79612&extension=ts&play_token=wPEQrVouxp
+#EXTINF:-1 tvg-name="IT | SKY SPORT 254 FHD" group-title="foxbleu.pro",IT | SKY SPORT 254 FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79613&extension=ts&play_token=ZkDEpR8QUo
+#EXTINF:-1 tvg-name="IT | SKY SPORT 254 HD" group-title="foxbleu.pro",IT | SKY SPORT 254 HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23561&extension=ts&play_token=22d941naty
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="[LIVE]- IT | SKY CALCIO VIP",IT: SKY SPORT 254 HD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136527.ts
+#EXTINF:-1 tvg-name="IT | SKY SPORT 255 FHD" group-title="foxbleu.pro",IT | SKY SPORT 255 FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79614&extension=ts&play_token=ks94zPJf1Z
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="[LIVE]- IT | SKY CALCIO VIP",IT: SKY SPORT 255 FHD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136529.ts
+#EXTINF:-1 tvg-name="IT | SKY SPORT 255 HD" group-title="foxbleu.pro",IT | SKY SPORT 255 HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23560&extension=ts&play_token=byqdevjjMB
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="[LIVE]- IT | SKY CALCIO VIP",IT: SKY SPORT 256 FHD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136532.ts
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="[LIVE]- IT | SKY CALCIO VIP",IT: SKY SPORT 256 HD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136533.ts
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Sky Sport 256 HD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159383.ts
+#EXTINF:-1 tvg-name="IT | SKY SPORT 257 FHD" group-title="foxbleu.pro",IT | SKY SPORT 257 FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79616&extension=ts&play_token=b4RhJdRUN7
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="[LIVE]- IT | SKY CALCIO VIP",IT: SKY SPORT 257 FHD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136535.ts
+#EXTINF:-1 tvg-name="IT | SKY SPORT 257 HD" group-title="foxbleu.pro",IT | SKY SPORT 257 HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23558&extension=ts&play_token=ZRD0txIClp
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="[LIVE]- IT | SKY CALCIO VIP",IT: SKY SPORT 257 HD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136536.ts
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="[LIVE]- IT | SKY CALCIO VIP",IT: SKY SPORT 258 HD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136539.ts
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" group-title="[LIVE]- IT | SKY CALCIO VIP",IT: SKY SPORT 259 FHD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136541.ts
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-arena-it.png" group-title="[LIVE]- IT | SKY SPORTS VIP",IT: SKY SPORT ARENA FHD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136478.ts
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Sky Sport Arena FHD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159376.ts
+#EXTINF:-1 tvg-name="IT SKY SPORT ARENA UHD" tvg-logo="https://go4.pw/ITALY/skysportarena.png" group-title="EU | IT | SPORT ",IT SKY SPORT ARENA UHD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/76638
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/skysportarena.png" group-title="[LIVE]- EU | IT | SPORT ",IT SKY SPORT ARENA UHD
+http://stream8k.site:80/live/649040128000902/0cYUKKV8wF/76638.ts
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-calcio-it.png" group-title="[LIVE]- IT | SKY SPORTS VIP",IT: SKY SPORT CALCIO FHD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136481.ts
+#EXTINF:-1 tvg-name="IT SKY SPORT CALCIO HD" tvg-logo="https://go4.pw/ITALY/skysportcalcio.png" group-title="EU | IT | SPORT ",IT SKY SPORT CALCIO HD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/900937
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Sky Sport Calcio SD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159371.ts
+#EXTINF:-1 tvg-name="IT | SKY SPORT F1" group-title="foxbleu.pro",IT | SKY SPORT F1
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=89669&extension=ts&play_token=mIXK4XbueF
+#EXTINF:-1 tvg-name="IT | SKY SPORT F1 FHD" group-title="foxbleu.pro",IT | SKY SPORT F1 FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=89667&extension=ts&play_token=VPNFimexTs
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-f1-it.png" group-title="[LIVE]- IT | SKY SPORTS VIP",IT: SKY SPORT F1 FHD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136484.ts
+#EXTINF:-1 tvg-name="IT SKY SPORT F1 HD" tvg-logo="https://go4.pw/germany/sky_f12.png" group-title="EU | IT | SPORT ",IT SKY SPORT F1 HD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/1379847
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/sky_f12.png" group-title="[LIVE]- EU | IT | SPORT ",IT SKY SPORT F1 HD
+http://stream8k.site:80/live/649040128000902/0cYUKKV8wF/1379847.ts
+#EXTINF:-1 tvg-name="IT SKY SPORT F1 UHD" tvg-logo="https://go4.pw/germany/sky_f12.png" group-title="EU | IT | SPORT ",IT SKY SPORT F1 UHD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/1379846
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/sky_f12.png" group-title="[LIVE]- EU | IT | SPORT ",IT SKY SPORT F1 UHD
+http://stream8k.site:80/live/649040128000902/0cYUKKV8wF/1379846.ts
+#EXTINF:-1 tvg-name="IT SKY SPORT GOLF HD" tvg-logo="https://go4.pw/ITALY/skysportgolf.png" group-title="EU | IT | SPORT ",IT SKY SPORT GOLF HD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/900936
+#EXTINF:-1 tvg-name="IT SKY SPORT GOLF UHD" tvg-logo="https://go4.pw/ITALY/skysportgolf.png" group-title="EU | IT | SPORT ",IT SKY SPORT GOLF UHD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/498731
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-football-it.png" group-title="[LIVE]- IT | SKY SPORTS VIP",IT: SKY SPORT MAX FHD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136507.ts
+#EXTINF:-1 tvg-name="IT SKY SPORT MAX HD" tvg-logo="https://go4.pw/ITALY/skysportfootb.png" group-title="EU | IT | SPORT ",IT SKY SPORT MAX HD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/76676
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-football-it.png" group-title="[LIVE]- IT | SKY SPORTS VIP",IT: SKY SPORT MAX HD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136508.ts
+#EXTINF:-1 tvg-name="IT SKY SPORT MAX UHD" tvg-logo="https://go4.pw/ITALY/skysportfootb.png" group-title="EU | IT | SPORT ",IT SKY SPORT MAX UHD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/76637
+#EXTINF:-1 tvg-name="IT SKY SPORT MOTOGP HD" tvg-logo="https://go4.pw/ITALY/skysportmotogp.png" group-title="EU | IT | SPORT ",IT SKY SPORT MOTOGP HD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/76680
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-nba-it.png" group-title="[LIVE]- IT | SKY SPORTS VIP",IT: SKY SPORT NBA FHD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136491.ts
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-nba-it.png" group-title="[LIVE]- IT | SKY SPORTS VIP",IT: SKY SPORT NBA HD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136492.ts
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/Sky_Sport_Tennis.png" group-title="[LIVE]- IT | SKY SPORTS VIP",IT: SKY SPORT TENNIS FHD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136494.ts
+#EXTINF:-1 tvg-name="IT SKY SPORT TENNIS HD" tvg-logo="https://go4.pw/ITALY/skysporttennis.png" group-title="EU | IT | SPORT ",IT SKY SPORT TENNIS HD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/900938
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/Sky_Sport_Tennis.png" group-title="[LIVE]- IT | SKY SPORTS VIP",IT: SKY SPORT TENNIS HD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136495.ts
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Sky Sport Tennis HD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159354.ts
+#EXTINF:-1 group-title="[LIVE]- ITALY",|IT| Sky Sport Uno FHD
+http://mjidiptv.com:1997/live/ouadnouni2/yassine/159352.ts
+#EXTINF:-1 tvg-name="IT SKY SPORT UNO HD" tvg-logo="https://go4.pw/ITALY/skysportuno.png" group-title="EU | IT | SPORT ",IT SKY SPORT UNO HD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/76675
+#EXTINF:-1 tvg-name="IT SKY SPORT UNO UHD" tvg-logo="https://go4.pw/ITALY/skysportuno.png" group-title="EU | IT | SPORT ",IT SKY SPORT UNO UHD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/76636
+#EXTINF:-1 tvg-name="IT | SKY UNO HD" group-title="foxbleu.pro",IT | SKY UNO HD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=89640&extension=ts&play_token=df9garSupk
+#EXTINF:-1 tvg-name="IT SPORT ITALIA HD" tvg-logo="https://go4.pw/ITALY/sportitaliasolocalcio.png" group-title="EU | IT | SPORT ",IT SPORT ITALIA HD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/247071
+#EXTINF:-1 tvg-name="IT SPORT ITALIA SOLO CALCIO HD" tvg-logo="https://go4.pw/ITALY/sportitaliasolocalcio.png" group-title="EU | IT | SPORT ",IT SPORT ITALIA SOLO CALCIO HD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/247073
+#EXTINF:-1 tvg-name="IT | STINGRAY CLASSICA FHD" group-title="foxbleu.pro",IT | STINGRAY CLASSICA FHD
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=79669&extension=ts&play_token=IFdh9BCaA9
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/super-tennis-it.png" group-title="[LIVE]- IT | SKY SPORTS VIP",IT: SUPER TENNIS FHD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136510.ts
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/super-tennis-it.png" group-title="[LIVE]- IT | SKY SPORTS VIP",IT: SUPER TENNIS HD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136511.ts
+#EXTINF:-1 tvg-name="IT | TGCOM" group-title="foxbleu.pro",IT | TGCOM
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:7B:82:AD&stream=23626&extension=ts&play_token=t8iHHDWfiu
+#EXTINF:-1 tvg-name="IT TOP CALCIO 24 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/topcalio.png" group-title="EU | IT | SPORT ",IT TOP CALCIO 24 HD
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/247060
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/italy/zona_dazn.png" group-title="[LIVE]- IT | SKY SPORTS VIP",IT: ZONA DAZN HD
+http://hnsefvp.top:8080/live/ZodAdacha/BVB09/136515.ts
+#EXTINF:-1 tvg-name="##### IT MY SPORTS #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="EU | IT | SPORT ",##### IT MY SPORTS #####
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/1136951
+#EXTINF:-1 tvg-name="##### IT SKY SPORTS #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="EU | IT | SPORT ",##### IT SKY SPORTS #####
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/1135344
+#EXTINF:-1 tvg-name="##### IT SPORT #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="EU | IT | SPORT ",##### IT SPORT #####
+http://100main.cc:80/4WD1D587UW3MNJ8/6Y4LhKlWKJ/76630
+#EXTINF:-1 tvg-name="Rete 8 Sport" tvg-logo="https://i.imgur.com/uUAjWlF.png" group-title="Italy",Rete 8 Sport
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
+#EXTINF:-1 tvg-name="Sport2U" tvg-logo="https://i.imgur.com/WW0lNk1.png" group-title="VOD Italy",Sport2U
+https://stream9.xdevel.com/video0s976916-1685/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="SportOutdoor.tv" tvg-logo="https://i.imgur.com/fwOuEBl.png" group-title="VOD Italy",SportOutdoor.tv
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
